@@ -1,6 +1,6 @@
-# 🚀 Alex Vechi – Data Analytics Portfolio
+# Hi there 👋, my name is Alexandre Vechi
 
-Welcome! I'm Alex, an end-to-end problem solver with 7+ years in **Business Intelligence**, **Data Engineering**, and **Data Management**. 
+I'm from Brazil and you can call me Alex, an end-to-end problem solver with 7+ years in **Business Intelligence**, **Data Engineering**, and **Data Management**. 
 I transform data into actionable solutions, bridging the gap between technical and business teams.
 
 I've built and scaled data systems for top Brazilian fintechs, HR techs, and SaaS leaders like **Contabilizei**, **Neon**, **Gupy**, and **GeekHunter**.
